@@ -4,8 +4,8 @@ B.Tech (CSE)| Aspiring Software Engineer | Java & DSA | Hi 👋, I’m Rahul Pat
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kumar-patel-018a4424b)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Rahul998056)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/patelrahul/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Rahul998056)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelrahul0252@gmail.com)
 
 
@@ -19,7 +19,6 @@ B.Tech (CSE)| Aspiring Software Engineer | Java & DSA | Hi 👋, I’m Rahul Pat
 
 ## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=Rahul998056&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 
 
